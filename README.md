@@ -2,8 +2,8 @@
 A gulp starter pack.
 
 To start the application run the command
-gulp
+<pre>gulp</pre>
 
 To build the project run the command
 
-gulp build
+<pre>gulp build</pre>
